@@ -1,5 +1,3 @@
-# Cuda_Project
-
 # Video Segmentation and Understanding of Automotive Scenes
 
 This project implements a temporal deep‑learning pipeline for understanding automotive driving scenes from video, including semantic segmentation, monocular depth estimation and ego‑motion estimation, trained on CARLA sequences. It provides full training scripts, evaluation utilities and 3D visualisation tools (camera poses and point clouds) to analyse model performance over time.
