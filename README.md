@@ -1,7 +1,4 @@
 # Cuda_Project
-This is a Markdown‑ready README you can copy‑paste directly into GitHub.
-
-***
 
 # Video Segmentation and Understanding of Automotive Scenes
 
